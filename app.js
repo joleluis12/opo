@@ -10,7 +10,7 @@ app.use(cors());
 const connection = mysql.createConnection({
   host: 'llanaterabarbitas.com',
   user: 'u990150337_barbitas', 
-  password: '1234', 
+  password: 'Barbitas1987@', 
   database: 'u990150337_BARBITAS', 
 });
 
