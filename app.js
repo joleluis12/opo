@@ -8,7 +8,7 @@ app.use(cors());
 
 // Configuración de conexión a MySQL
 const connection = mysql.createConnection({
-  host: 'llanaterabarbitas.com',
+  host: '62.72.50.242',
   user: 'u990150337_barbitas', 
   password: 'Barbitas1987@', 
   database: 'u990150337_BARBITAS', 
