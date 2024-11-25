@@ -97,7 +97,7 @@ app.post('/usuarios', (req, res) => {
 });
 
 // Iniciar el servidor en el puerto 3000
-const PORT = 3000;
+const PORT = 3306;
 app.listen(PORT, () => {
   console.log(`Servidor corriendo en el puerto ${PORT}`);
 });
